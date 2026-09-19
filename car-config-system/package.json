@@ -1,0 +1,23 @@
+{
+  "name": "car-config-system",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "2.8.4",
+    "vue": "3.4.21",
+    "vue-router": "4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "5.0.4",
+    "vite": "5.2.8"
+  }
+}
